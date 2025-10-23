@@ -1,11 +1,6 @@
-"""
-Fixed Decider Node - Properly detects multi-intent queries
-"""
+
 
 def decide_tool(state):
-    """
-    Smart routing with proper multi-tool detection
-    """
     query = state["query"].lower()
     original_query = state["query"]
 
