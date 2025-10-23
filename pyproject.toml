@@ -1,0 +1,17 @@
+[project]
+name = "medical_agent"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "langgraph>=0.2.5",
+    "langchain>=0.3.0",
+    "langchain_community",
+    "langchain_groq",
+    "langchain_tavily",
+    "datasets",
+    "faiss-cpu",
+    "requests",
+    "python-dotenv",
+    "sentence_transformers",
+
+]
