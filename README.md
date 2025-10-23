@@ -23,7 +23,15 @@ An intelligent multi-agent medical chatbot that combines RAG (Retrieval-Augmente
   
 ### 📹 Watch the Chatbot in Action
 
-https://github.com/Tapas000/Multi-Agent-RAG-Medical-Assistant/demo.mp4
+[![Medical AI Chatbot Demo](https://img.youtube.com/vi/LoehtNDVPvs/maxresdefault.jpg)](https://youtu.be/LoehtNDVPvs)
+
+**🎥 [Watch Full Demo on YouTube](https://youtu.be/LoehtNDVPvs)**
+
+**Quick Demo Highlights:**
+- 🎯 Intelligent query routing
+- 🔍 Multi-tool orchestration
+- 💬 Real-time chat interface
+- 📚 RAG-powered medical responses
 
 **Quick Demo Highlights:**
 - 🎯 Intelligent query routing
@@ -165,6 +173,7 @@ The server will start on `http://localhost:8000`
 
 **Or visit the live deployment:** [https://medical-assistant-1-15wf.onrender.com](https://medical-assistant-1-15wf.onrender.com)
 
+---
 
 ## 🎯 Query Examples
 
@@ -251,6 +260,8 @@ medical-ai-chatbot/
 ├── render.yaml               # Render deployment config
 └── README.md                 # This file
 ```
+
+**GitHub Repository:** [https://github.com/Tapas000/Multi-Agent-RAG-Medical-Assistant](https://github.com/Tapas000/Multi-Agent-RAG-Medical-Assistant)
 
 ---
 
@@ -561,7 +572,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Tapas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -585,9 +596,49 @@ in the Software without restriction...
 
 For questions, support, or feedback:
 
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/medical-ai-chatbot/issues)
-- **Email**: tb61946@gmail.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/tapas-barman-2661161a0/)
+- **GitHub Issues**: [Open an issue](https://github.com/Tapas000/Multi-Agent-RAG-Medical-Assistant/issues)
+- **Email**: your.email@example.com
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+
+---
+
+## ⚠️ Disclaimer
+
+**IMPORTANT MEDICAL DISCLAIMER**
+
+This is an AI-powered medical information system designed for **educational and informational purposes only**. 
+
+- ❌ **NOT** a substitute for professional medical advice, diagnosis, or treatment
+- ❌ **NOT** intended to replace consultation with qualified healthcare providers
+- ❌ **NOT** validated for clinical decision-making
+
+**Always:**
+- ✅ Consult with qualified healthcare providers for medical decisions
+- ✅ Seek immediate medical attention for emergencies
+- ✅ Verify information with trusted medical sources
+- ✅ Discuss any health concerns with your doctor
+
+The developers and contributors assume no liability for any medical decisions made based on information provided by this system.
+
+---
+
+## 🗺️ Roadmap
+
+### Version 2.0 (Planned)
+- [ ] Integration with PubMed API
+- [ ] Multi-language support
+- [ ] Voice input/output
+- [ ] Medical image analysis
+- [ ] Symptom checker with decision trees
+- [ ] Appointment booking integration
+
+### Version 2.1 (Future)
+- [ ] Mobile app (React Native)
+- [ ] Real-time collaborative chats
+- [ ] Advanced analytics dashboard
+- [ ] Custom medical knowledge base upload
+- [ ] HIPAA compliance features
 
 ---
 
@@ -605,7 +656,7 @@ For questions, support, or feedback:
 
 ### ⭐ Star this repo if you find it helpful!
 
-Made with ❤️ and 🤖 by Tapas Barman
+Made with ❤️ and 🤖 by [Tapas](https://github.com/Tapas000)
 
 [⬆ Back to Top](#-medical-ai-chatbot)
 
